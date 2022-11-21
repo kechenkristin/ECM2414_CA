@@ -1,0 +1,1 @@
+player 2 initial hand 3 9 4 3 
