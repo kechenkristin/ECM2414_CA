@@ -72,11 +72,11 @@ A multithread card game.
 ```
 
 ## Run the TestSuite
-- provide a pack file in test folder
+- provide a pack file(with the format of .txt) in test folder
 - compile and run
 
 ## Run the main method 
-- provide a pack file in the src folder
+- provide a pack file(.txt) in the CardGame folder
 - initialize a CardGame instance
 - call the instance's startGame method
 
