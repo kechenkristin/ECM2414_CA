@@ -1,2 +1,0 @@
-player 1 initial hand 1 4 1 9 
-player 1 draws a 12 from deck 1
